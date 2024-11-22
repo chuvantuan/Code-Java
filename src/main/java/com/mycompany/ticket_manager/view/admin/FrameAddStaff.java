@@ -309,8 +309,8 @@ public class FrameAddStaff extends javax.swing.JPanel {
 
     private void SignOutActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SignOutActionPerformed
         // TODO add your handling code here:
-//        FrameLogin login = new FrameLogin();
-//        login.setVisible(true);
+        FrameLogin login = new FrameLogin();
+        login.setVisible(true);
     }//GEN-LAST:event_SignOutActionPerformed
 
 
